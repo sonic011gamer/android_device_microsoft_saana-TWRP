@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_e1m.mk
+    $(LOCAL_DIR)/omni_saana.mk
