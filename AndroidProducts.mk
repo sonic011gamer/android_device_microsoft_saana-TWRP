@@ -16,3 +16,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_saana.mk
+
+COMMON_LUNCH_CHOICES := \
+    omni_saana-user \
+    omni_saana-userdebug \
+    omni_saana-eng
